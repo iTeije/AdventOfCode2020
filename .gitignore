@@ -12,6 +12,7 @@
 
 # IntelliJ
 .idea
+**/target
 
 # Package Files #
 *.jar
