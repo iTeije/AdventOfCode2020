@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class DaySevenPartOne {
 
-    private static final String GOLDEN_BAG = "shiny gold";
+    public static final String GOLDEN_BAG = "shiny gold";
     private static Map<String, List<String>> bags;
 
     public static void main(String[] args) {
